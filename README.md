@@ -47,4 +47,5 @@ $ npm run dev
 ## Pessoal 🙋‍♂️
 
 Linkedin: https://www.linkedin.com/in/hugo-vitorino/
+</br>
 Email: hugocortezprog@gmail.com
