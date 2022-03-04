@@ -8,11 +8,11 @@
     - <a href="#pessoal">Pessoal</a>
 </p>
 
-<h2 id="pre">Sobre ✨</h2>
+<h2 id="sobre">Sobre ✨</h2>
 
 Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do pipefy. Utilizamos o styled-components para fazer a estilização da página e o react-icons para fazer a utilização de icones na página. Não foi feito a parte do drag-and-drop.
 
-<h2 id="pre">Tecnologias 💻</h2>
+<h2 id="tecnologias">Tecnologias 💻</h2>
 
 - React.js
 
@@ -38,7 +38,7 @@ $ npm install
 $ npm run dev
 ```
 
-<h2 id="pre">Pessoal 🙋‍♂️</h2>
+<h2 id="pessoal">Pessoal 🙋‍♂️</h2>
 
 Linkedin: https://www.linkedin.com/in/hugo-vitorino/
 </br>
