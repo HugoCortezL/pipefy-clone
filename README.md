@@ -6,14 +6,13 @@
     - <a href="#pre">Pré-requisitos</a>
     - <a href="#rodando">Rodando a aplicação</a>
     - <a href="#pessoal">Pessoal</a>
-    - <a href="#pessoal">Pessoal</a>
 </p>
 
-## Sobre ✨
+<h2 id="pre">Sobre ✨</h2>
 
-Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do pipefy, com algumas funcionalidades. Utilizamos o styled-components para fazer a estilização da página e o react-icons para fazer a utilização de icones na página. Não foi feito a parte do drag-and-drop.
+Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do pipefy. Utilizamos o styled-components para fazer a estilização da página e o react-icons para fazer a utilização de icones na página. Não foi feito a parte do drag-and-drop.
 
-## Tecnologias 💻
+<h2 id="pre">Tecnologias 💻</h2>
 
 - React.js
 
@@ -39,7 +38,7 @@ $ npm install
 $ npm run dev
 ```
 
-## Pessoal 🙋‍♂️
+<h2 id="pre">Pessoal 🙋‍♂️</h2>
 
 Linkedin: https://www.linkedin.com/in/hugo-vitorino/
 </br>
