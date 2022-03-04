@@ -12,7 +12,7 @@
 
 ## Sobre ✨
 
-Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do pipefy, com algumas funcionalidades.
+Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do pipefy, com algumas funcionalidades. Utilizamos o styled-components para fazer a estilização da página e o react-icons para fazer a utilização de icones na página.
 
 ## Tecnologias 💻
 
