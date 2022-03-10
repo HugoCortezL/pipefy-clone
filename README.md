@@ -10,7 +10,7 @@
 
 <h2 id="sobre">Sobre ✨</h2>
 
-Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do pipefy. Utilizamos o styled-components para fazer a estilização da página e o react-icons para fazer a utilização de icones na página. Não foi feito a parte do drag-and-drop.
+This project created from the rocketseat video and is a front-end clone of pipefy. We use styled-components to style the page and react-icons to use icons on the page. The drag-and-drop part was not done.
 
 <h2 id="tecnologias">Tecnologias 💻</h2>
 
@@ -18,7 +18,7 @@ Esse projeto criado a partir do vídeo da rocketseat e é um clone front-end do 
 
 <h2 id="pre">Pré-requisitos ✏️</h2>
 
-Para esse projeto funcionar, vai ser preciso algumas ferramentas:
+For this project to work, you will need some tools:
 * [Git](https://git-scm.com/downloads)
 * [Node.js](https://nodejs.org/en/download/)
 
